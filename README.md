@@ -1,5 +1,8 @@
 ## Capstone Project: VeloCity ~ Where Speed Meets Discovery ~ A City Tours Optimization App   
 
+VeloCity is an innovative web application that streamlines city tours by integrating advanced travel planning technologies. It enables users to explore city landmarks effectively, offering features like real-time landmark availability, advanced searching options, optimized travel routes, and personalized itineraries. The platform incorporates Google APIs such as Distance Matrix and Places API for accurate route and landmark data, leveraging a Traveling Salesman Problem (TSP) algorithm to optimize routes for minimal travel time. Built using Java, Spring Boot, Vue.js, JavaScript and PostgreSQL, the project combines efficient frontend and backend systems to deliver a seamless user experience.
+
+
 ---
 
 ### Problem Statement & Solution
