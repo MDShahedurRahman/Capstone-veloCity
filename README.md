@@ -1,4 +1,4 @@
-## Capstone Project: VeloCity ~ Where Speed Meets Discovery ~ A City Tours App   
+## Capstone Project: VeloCity ~ Where Speed Meets Discovery ~ A City Tours Optimization App   
 
 ---
 
